@@ -1,2 +1,2 @@
-# run-py-markdown
+# mdscript
 Run a markdown file as a python script
