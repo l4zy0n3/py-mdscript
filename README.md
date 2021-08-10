@@ -1,2 +1,2 @@
 # py-mdscript
-Run a markdown file as a python script
+Run a markdown codeblocks as a python script
