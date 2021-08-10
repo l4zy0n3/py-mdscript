@@ -1,5 +1,5 @@
 # runmd
-Run a markdown codeblocks as a python script
+Export markdown codeblocks as a python script
 
 ## Installation
 
